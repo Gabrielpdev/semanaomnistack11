@@ -75,7 +75,7 @@ export default function Profile(){
           <p>{Intl.NumberFormat('pt-BR', { style: 'currency',currency:'BRL'}).format(incidents.value) }</p>
 
           <button onClick={() => handleDeleteIncident(incidents.id)} type="button">
-            <FiTrash2 size={12} color="#a8a8b3"/>
+            <FiTrash2 size={20} color="#a8a8b3"/>
           </button>
         </li>
         ))}
