@@ -1,4 +1,4 @@
-# Be The Hero ![](/frontend/src/assets/logo.svg)
+# (/frontend/src/assets/logo.svg)
 
 # 🚀 Semana OmniStack 11.0 🚀
 
