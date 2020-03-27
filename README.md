@@ -1,4 +1,4 @@
-# Be The Hero
+# Be The Hero ![GitHub Logo](/images/logo.png)
 
 # 🚀 Semana OmniStack 11.0 🚀
 
@@ -9,7 +9,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Node.js
 - React
 - React Native
-- Expo**
+- Expo
 
 ## Projeto💻 
 
