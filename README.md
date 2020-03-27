@@ -1,4 +1,4 @@
-# Be The Hero ![GitHub Logo](/images/logo.png)
+# Be The Hero ![](/images/logo.png)
 
 # 🚀 Semana OmniStack 11.0 🚀
 
