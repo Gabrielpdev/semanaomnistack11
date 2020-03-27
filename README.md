@@ -6,13 +6,12 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-Node.js
+### Node.js
 
-React
+### React
 
-React Native
-
-Expo
+### React Native
+### Expo
 
 ## Projeto💻 
 
